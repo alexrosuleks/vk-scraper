@@ -1,0 +1,20 @@
+{
+  "name": "vk-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VK Scraper: Scrape public VK (VKontakte) wall posts with likes, reposts, views, media and comments from any community or profile. No login needed. JSON, CSV, Excel.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "vk"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}

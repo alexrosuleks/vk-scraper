@@ -1,0 +1,13 @@
+{
+  "targets": [
+    "kinopoisk",
+    "rbc"
+  ],
+  "maxItems": 20,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
